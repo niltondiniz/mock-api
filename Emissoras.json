@@ -1,0 +1,304 @@
+{
+    "ListarEmissorasResponse": {
+        "ListarEmissorasResult": {
+            "EmissoraDTO": [
+                {
+                    "NomePessoa": "TV ATENAS",
+                    "Programas": "",
+                    "RazaoSocial": "ATENAS COMUNICACOES LTDA",
+                    "Id": "329970",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "1"
+                },
+                {
+                    "NomePessoa": "TV BAND - RIO DE JANEIRO",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO BANDEIRANTES DO RJ LTDA",
+                    "Id": "1394763",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "1"
+                },
+                {
+                    "NomePessoa": "TV VITORIA REGIA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "TV VITORIA REGIA LTDA",
+                    "Id": "185220",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "13"
+                },
+                {
+                    "NomePessoa": "BAND VALE",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO TAUBATE LTDA",
+                    "Id": "78516",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "13"
+                },
+                {
+                    "NomePessoa": "TV5 - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "SOCIEDADE DE COMUNICACAO NORTE LTDA",
+                    "Id": "49",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "4"
+                },
+                {
+                    "NomePessoa": "BAND TRIANGULO - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "REGIONAL CENTRO SUL DE COMUNICACAO S/A",
+                    "Id": "24226",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "11"
+                },
+                {
+                    "NomePessoa": "TV TRIBUNA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "NASSAU EDITORA RADIO E TV LTDA",
+                    "Id": "1827317",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "3"
+                },
+                {
+                    "NomePessoa": "TV TAROBA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "TELEVISAO LONDRINA LTDA",
+                    "Id": "284275",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "14"
+                },
+                {
+                    "NomePessoa": "TV TAROBA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO TAROBA LTDA",
+                    "Id": "34259",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "9"
+                },
+                {
+                    "NomePessoa": "SIL TV - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "MACARENA TELECOMUNICACOES LTDA",
+                    "Id": "1337374",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "2"
+                },
+                {
+                    "NomePessoa": "BAND RORAIMA",
+                    "Programas": "",
+                    "RazaoSocial": "BURITIS COMUNICACOES LTDA",
+                    "Id": "1491897",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "9"
+                },
+                {
+                    "NomePessoa": "BAND RS",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TV PORTOVISAO LTDA",
+                    "Id": "50315",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "13"
+                },
+                {
+                    "NomePessoa": "BAND RN",
+                    "Programas": "",
+                    "RazaoSocial": "TELEVISAO NOVOS TEMPOS S/A",
+                    "Id": "48990",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "7"
+                },
+                {
+                    "NomePessoa": "BAND RIO INTERIOR",
+                    "Programas": "",
+                    "RazaoSocial": "SOC TV SUL FLUMINENSE LTDA",
+                    "Id": "43895",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "7"
+                },
+                {
+                    "NomePessoa": "BAND RIO",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO BANDEIRANTES DO RIO DE JANE",
+                    "Id": "1827322",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "10"
+                },
+                {
+                    "NomePessoa": "TV RBA MARABA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "SISTEMA CLUBE DO PARA DE COMUNICACAO LTDA",
+                    "Id": "1827312",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "8"
+                },
+                {
+                    "NomePessoa": "BAND PAULISTA",
+                    "Programas": "",
+                    "RazaoSocial": "TELEVISAO BANDEIRANTES DE PRESIDENTE PRUDENTE",
+                    "Id": "74512",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "14"
+                },
+                {
+                    "NomePessoa": "TV RBA BELEM - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "SISTEMA CLUBE DO PARA DE COMUNICACAO LTDA",
+                    "Id": "1483293",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "7"
+                },
+                {
+                    "NomePessoa": "BAND PARANA",
+                    "Programas": "",
+                    "RazaoSocial": "TELEVISAO BANDEIRANTES DO PARANA LTDA",
+                    "Id": "33934",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "14"
+                },
+                {
+                    "NomePessoa": "BAND MINAS",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO BANDEIRANTES DE MINAS GERAI",
+                    "Id": "1733331",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "24"
+                },
+                {
+                    "NomePessoa": "TV MERIDIONAL - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "SISTEMA MERIDIONAL DE COMUNICACAO LTDA",
+                    "Id": "49476",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "5"
+                },
+                {
+                    "NomePessoa": "TV MARINGA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "TELEVISAO ICARAI LTDA",
+                    "Id": "35217",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "15"
+                },
+                {
+                    "NomePessoa": "BAND MARANHAO",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO BANDEIRANTES S.A.",
+                    "Id": "17101",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "11"
+                },
+                {
+                    "NomePessoa": "TV MANAIRA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO O NORTE S/A",
+                    "Id": "28356",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "4"
+                },
+                {
+                    "NomePessoa": "BAND SAO PAULO",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO BANDEIRANTES S.A.",
+                    "Id": "63725",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "1"
+                },
+                {
+                    "NomePessoa": "BAND PIAUI",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TV SCHAPPO LTDA",
+                    "Id": "1742345",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "7"
+                },
+                {
+                    "NomePessoa": "BAND IMPERATRIZ",
+                    "Programas": "",
+                    "RazaoSocial": "REDE METROPOLITANA DE RADIO E TELEVISAO LTDA",
+                    "Id": "1835353",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "11"
+                },
+                {
+                    "NomePessoa": "TV GUANANDI - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "SOCIEDADE CAMPOGRANDENSE DE TELEVISAO LIMITAD",
+                    "Id": "24966",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "5"
+                },
+                {
+                    "NomePessoa": "TV GOIANIA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "REDE GOIANIA DE RADIO E TELEVISAO LTDA",
+                    "Id": "320799",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "11"
+                },
+                {
+                    "NomePessoa": "TV CLUBE - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "SISTEMA CLUBE DE COMUNICACAO LTDA",
+                    "Id": "79442",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "7"
+                },
+                {
+                    "NomePessoa": "BAND CEARA",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO BANDEIRANTES S.A.",
+                    "Id": "140866",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "6"
+                },
+                {
+                    "NomePessoa": "BAND CAMPINAS",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TV BANDEIRANTES DE CAMPINAS S.A.",
+                    "Id": "69538",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "10"
+                },
+                {
+                    "NomePessoa": "BAND BRASILIA",
+                    "Programas": "",
+                    "RazaoSocial": "RADIO E TELEVISAO BANDEIRANTES S.A.",
+                    "Id": "1827325",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "6"
+                },
+                {
+                    "NomePessoa": "TV BARRIGA VERDE (TV BV) - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "TV BARRIGA VERDE SA.",
+                    "Id": "55825",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "5"
+                },
+                {
+                    "NomePessoa": "TV AMAZONIA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "VIA BRASIL COMUNICACAO LTDA",
+                    "Id": "1827291",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "4"
+                },
+                {
+                    "NomePessoa": "TV THATHI - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "TV DO POVO LTDA",
+                    "Id": "75873",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "18"
+                },
+                {
+                    "NomePessoa": "TV CAPIXABA - BAND",
+                    "Programas": "",
+                    "RazaoSocial": "TELEVISAO CAPIXABA LTDA",
+                    "Id": "13138",
+                    "GrupoEmissoraId": "5",
+                    "NaoAnalisados": "16"
+                }
+            ]
+        }
+    }
+}

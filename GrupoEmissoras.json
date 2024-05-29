@@ -1,0 +1,68 @@
+{
+    "ListarGruposEmissoraResponse": {
+        "ListarGruposEmissoraResult": {
+            "GrupoEmissoraDTO": [
+                {
+                    "Descricao": "TV LEGISLATIVA (CLDF)",
+                    "Id": "21",
+                    "NaoAnalisados": "1",
+                    "Emissoras": ""
+                },
+                {
+                    "Descricao": "TV PAI ETERNO",
+                    "Id": "19",
+                    "NaoAnalisados": "1",
+                    "Emissoras": ""
+                },
+                {
+                    "Descricao": "REDE 21",
+                    "Id": "23",
+                    "NaoAnalisados": "1",
+                    "Emissoras": ""
+                },
+                {
+                    "Descricao": "REDE TV",
+                    "Id": "24",
+                    "NaoAnalisados": "1",
+                    "Emissoras": ""
+                },
+                {
+                    "Descricao": "TV DIARIO",
+                    "Id": "15",
+                    "NaoAnalisados": "1",
+                    "Emissoras": ""
+                },
+                {
+                    "Descricao": "OUTRAS EMISSORAS",
+                    "Id": "1",
+                    "NaoAnalisados": "12",
+                    "Emissoras": ""
+                },
+                {
+                    "Descricao": "RECORD",
+                    "Id": "2",
+                    "NaoAnalisados": "31",
+                    "Emissoras": ""
+                },
+                {
+                    "Descricao": "GLOBO",
+                    "Id": "6",
+                    "NaoAnalisados": "55",
+                    "Emissoras": ""
+                },
+                {
+                    "Descricao": "BAND",
+                    "Id": "5",
+                    "NaoAnalisados": "37",
+                    "Emissoras": ""
+                },
+                {
+                    "Descricao": "SBT",
+                    "Id": "4",
+                    "NaoAnalisados": "42",
+                    "Emissoras": ""
+                }
+            ]
+        }
+    }
+}

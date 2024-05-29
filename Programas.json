@@ -1,0 +1,138 @@
+{
+    "ListarProgramasResponse": {
+        "ListarProgramasResult": {
+            "ProgramaDTO": [
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "BAND KIDS - LOCAL",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "3d2f2dec-5d94-4591-b36a-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "true",
+                    "QtdDiasImportados": "7",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "Planilha"
+                },
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "BAND ENTREVISTA",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "062009e4-5f14-4b54-b3a6-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "true",
+                    "QtdDiasImportados": "9",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "Planilha"
+                },
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "BAND MOTORS",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "6cb914c5-c8a4-4cbd-82e0-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "true",
+                    "QtdDiasImportados": "4",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "Planilha"
+                },
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "BAND MULHER - CAMPINAS",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "d5e012e0-d968-47a1-9724-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "true",
+                    "QtdDiasImportados": "22",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "Planilha"
+                },
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "BAND MULTI.COM",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "a3ef13db-5649-44fd-83a4-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "false",
+                    "QtdDiasImportados": "22",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "NaoDefinido"
+                },
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "BASTIDORES DO PODER",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "5869d6b0-211d-449b-9d45-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "true",
+                    "QtdDiasImportados": "5",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "Planilha"
+                },
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "BOA TARDE SP INTERIOR",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "4d844d1c-2ee9-4bf9-ac12-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "false",
+                    "QtdDiasImportados": "22",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "NaoDefinido"
+                },
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "BORA SP",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "214e33dd-6f8d-4eab-8360-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "true",
+                    "QtdDiasImportados": "22",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "Planilha"
+                },
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "OS DONOS DA BOLA",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "39a5d71a-9195-4917-9552-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "true",
+                    "QtdDiasImportados": "23",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "Planilha"
+                },
+                {
+                    "Recebimento": "2022-05-02T00:00:00",
+                    "Descricao": "TENDENCIAS E ATUALIDADES",
+                    "EmissoraId": "69538",
+                    "Descartado": "false",
+                    "Exibicoes": "",
+                    "Id": "840a53d3-d5b2-4654-ab65-aeca0108bb3e",
+                    "ProgramaSid": "",
+                    "PossuiCapa": "true",
+                    "QtdDiasImportados": "9",
+                    "DataImportacao": "2022-07-06T13:04:13",
+                    "TipoIdentificacao": "Planilha"
+                }
+            ]
+        }
+    }
+}
